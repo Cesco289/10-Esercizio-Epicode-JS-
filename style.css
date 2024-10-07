@@ -1,0 +1,25 @@
+img{width: 100px;
+height: 100px;}
+
+.Tabella{text-align: center;
+margin-top: 100px;
+border: 1px solid black;
+padding: 40px;
+margin: 15px;}
+
+h1{text-align: center;}
+
+footer{margin-top: 100px;
+text-align: center;}
+
+#Bottoni{margin-top: 100px;
+text-align: center;}
+
+input{
+display: block;
+margin: 0 auto;
+margin-top: 50px;
+width: 800px;
+height: 150px;
+}
+
